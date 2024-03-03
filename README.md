@@ -1,2 +1,2 @@
 # llm-finetuning-examples
-notebooks to finetune LLMs on public dataset
+notebooks to getting started and finetune LLMs on public dataset
